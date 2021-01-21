@@ -1,0 +1,25 @@
+.search-banner {
+  background-color: #dde2e9;
+  min-height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 40px;
+
+  &__result {
+    h1 {
+      color: #253858;
+      font-size: 40px;
+
+      span {
+        color: #6d7b91;
+      }
+    }
+
+    a{
+        font-size: 20px;
+        margin-top: 30px;
+        color:  #6d7b91;
+    }
+  }
+}

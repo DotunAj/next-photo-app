@@ -1,0 +1,17 @@
+// CORE
+@import "./core/overwrite";
+@import "./core/general";
+
+// COMPONENT
+@import "./components/search-banner";
+@import "./components/input";
+@import "./components/photo-grid";
+@import "./components/modal";
+
+// PAGE
+@import "./pages/home";
+
+// ANIMATIONS
+
+@import "./animations/shine";
+@import "./animations/global";
